@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Hola 😅, soy Edgar Axel Gonzalez Martinez, soy Ingeniero en Desarrollo y Gestion de Software, Aqui te dejo mi [Portafolio](https://axel-gonzalez.web.app/) por si quieres conocer un poco mas sobre mi 😀. y me considero FullStack Developer
 
 <div align="center">
-  <img src="https://axel-gonzalez.web.app/images/FotoPerfil_3.jpg" width="200">
+  <img src="https://axel-gonzalez.web.app/images/FotoPerfil_0.jpg" width="200">
 </div>
 
 ## Tecnologias que manejo 🚀
